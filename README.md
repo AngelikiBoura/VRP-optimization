@@ -2,7 +2,7 @@
 For the course , Optimization Methods in Management Science, we were called to create a python programme that solves a VRP model 
 and then optimizes the solution. After a natural disaster, we need to deliver the needed supplies to 100 different areas. We need to minimize the sum of the 
 total time until we arrive to the last area and we are ready to deliver it the supplies. The time to travel from one area to the other, we assume it's equal with 
-their  euclidean distance. Also in every area there is a required time for the supplies to unload from the vehicles.
+their  euclidean distance. Also in every area there is a required time for the supplies to be unloaded from the vehicles.
 
 ## Instance.txt: 
 It contains the problem's data. Specifically, how many vehicles we have available and their capacity, the latitude, longtitude, demand and service time 
